@@ -7,7 +7,7 @@ Python Developer
 I'm learning coding from a while now and trying to gonna create something revolutionary...
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My certificates](http://https://drive.google.com/drive/folders/1RtQpKiaTKBIMOxDtJUH_nyIXVapnFPiw?usp=sharing)
+* 🖥️  See my portfolio at [My certificates](https://drive.google.com/drive/u/0/folders/1RtQpKiaTKBIMOxDtJUH_nyIXVapnFPiw)
 * ✉️  You can contact me at [nakulsharmarajsthan@gmail.com](mailto:nakulsharmarajsthan@gmail.com)
 * 🧠  I'm learning ML
 * 🤝  I'm open to collaborating on AI/ML projects
