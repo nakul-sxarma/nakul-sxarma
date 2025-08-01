@@ -12,6 +12,7 @@ I'm learning coding from a while now and trying to gonna create something revolu
 * 🧠  I'm learning ML
 * 🤝  I'm open to collaborating on AI/ML projects
 * ⚡  I'm the real Batman BTW, just keep it a secret.
+* Here's my Portfolio [Portfolio](https://nakul-sxarma.github.io/portfolio/)
 
 ### Skills
 
